@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/staffActItem"
+        android:title="Staff Activations"/>
+
+    <item android:id="@+id/studActItem"
+        android:title="Student Activations"/>
+
+    <item android:id="@+id/logoutItem"
+        android:title="Logout"/>
+</menu>
